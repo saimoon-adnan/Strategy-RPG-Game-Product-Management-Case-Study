@@ -7,9 +7,7 @@ The goal of this project is to demonstrate a structured approach to **product an
 ---
 ## Product Management Workflow
 
-<p align="center">
-  <img src="PM%20PIC.png" width="700">
-</p>
+
 ## Project Objectives
 
 The main objectives of this project were to:
