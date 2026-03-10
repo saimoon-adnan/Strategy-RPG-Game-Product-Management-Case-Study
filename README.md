@@ -5,7 +5,11 @@ This repository contains a **Product Management case study** based on a job simu
 The goal of this project is to demonstrate a structured approach to **product analysis, KPI selection, and data-driven decision making** within the video game industry.
 
 ---
+## Product Management Workflow
 
+<p align="center">
+  <img src="PM%20PIC.png" width="700">
+</p>
 ## Project Objectives
 
 The main objectives of this project were to:
